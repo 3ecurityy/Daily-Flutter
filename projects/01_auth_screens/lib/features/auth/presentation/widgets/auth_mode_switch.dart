@@ -36,6 +36,7 @@ class AuthModeSwitch extends StatelessWidget {
                 : Alignment.centerRight,
             child: FractionallySizedBox(
               widthFactor: 0.5,
+              heightFactor: 1,
               child: DecoratedBox(
                 decoration: BoxDecoration(
                   gradient: AppColors.primaryGradient,
