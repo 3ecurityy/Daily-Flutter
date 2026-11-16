@@ -14,8 +14,8 @@ Follow along on Instagram: **[@MohammadReza.Devv](https://instagram.com/mohammad
 ## Run any project
 
 ```bash
-git clone https://github.com/3ecurityy/Dayli-Flutter.git
-cd Dayli-Flutter/projects/01_auth_screens
+git clone https://github.com/3ecurityy/Daily-Flutter.git
+cd Daily-Flutter/projects/01_auth_screens
 flutter pub get
 flutter run
 ```
